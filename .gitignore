@@ -1,0 +1,14 @@
+# Python-generated files
+__pycache__/
+*.py[oc]
+build/
+dist/
+wheels/
+*.egg-info
+
+# Virtual environments
+.venv
+
+# Sonstige Dateien
+BPI.xes
+BPI17_cleaned_frequent_variants_only.xes
